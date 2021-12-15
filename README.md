@@ -1,2 +1,2 @@
-# other projects wish R
+# other projects with R
 ab-test/Persona/TextMining
